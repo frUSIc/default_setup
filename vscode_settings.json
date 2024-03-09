@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Nord",
+    "editor.fontSize": 18,
+    "editor.tokenColorCustomizations": {
+        "[Nord]": {
+            "strings": "#f0dd8b",
+            "comments": "#84a376"
+        }
+    },
+    "editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript][typescript][json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+  }
